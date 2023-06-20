@@ -21,7 +21,7 @@ namespace Al_Madiina_Hotel
         SqlConnection cn = new SqlConnection("Data Source=DESKTOP-BRTJJ4B;Initial Catalog=ABDIRAHMAN;Integrated Security=true;");
         SqlCommand cmd;
         SqlDataAdapter da;
-        int ID = 0;
+        int ID = 0;   
 
         private void btnSave_Click(object sender, EventArgs e)
         {
