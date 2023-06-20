@@ -30,7 +30,7 @@ namespace Al_Madiina_Hotel
 
         private void Dashboard_Load(object sender, EventArgs e)
         {
-
+   
             
         }
 
