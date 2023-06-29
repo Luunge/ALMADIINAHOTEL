@@ -13,7 +13,7 @@ namespace Al_Madiina_Hotel
 {
     public partial class frmdash : Form
     {
-        public frmdash()
+        public frmdash() 
         {
             InitializeComponent();
         }
