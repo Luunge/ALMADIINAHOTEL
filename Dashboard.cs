@@ -15,7 +15,7 @@ namespace Al_Madiina_Hotel
     {
         public frmdash()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         SqlConnection cn = new SqlConnection("Data Source=DESKTOP-BRTJJ4B;Initial Catalog=ABDIRAHMAN;Integrated Security=true;");
