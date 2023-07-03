@@ -11,7 +11,7 @@ using System.Data.SqlClient;
 using System.Threading;
 
 
-namespace Al_Madiina_Hotel
+namespace Al_Madiina_Hotel 
 {
     public partial class frmLogin : Form
     {
