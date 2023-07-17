@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Al_Madiina_Hotel 
+namespace Al_Madiina_Hotel   
 {
     public partial class splashScreen : Form
     {
