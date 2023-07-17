@@ -14,7 +14,7 @@ namespace Al_Madiina_Hotel
     {
         public splashScreen()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
